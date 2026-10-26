@@ -1,0 +1,6 @@
+# Secrets and local settings: never commit these
+.env
+
+# Editor and system files
+.DS_Store
+Thumbs.db
